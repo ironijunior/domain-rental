@@ -14,3 +14,7 @@ Domain Modelling
 - a building can be composed by many apartments
 - a landlord owns one or more properties
 - a property can have just one owner
+
+
+Tool used to draw the ER diagram:
+https://diagrams.visual-paradigm.com/
