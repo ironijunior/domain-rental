@@ -14,6 +14,7 @@ Domain Modelling
 - a building can be composed by many apartments
 - a landlord owns one or more properties
 - a property can have just one owner
+- I didn't focus on fields for each entity, I tried to focus on the relationships
 
 
 Tool used to draw the ER diagram:
